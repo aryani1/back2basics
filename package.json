@@ -7,5 +7,12 @@
   },
   "private": true,
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "webpack": "^5.4.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  }
 }
